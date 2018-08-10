@@ -3,8 +3,7 @@
 <img src="https://github.com/kiruha21/ru.fourpda.skins.sova/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" width="130" height="130" alt="">
 
 # Profile 4PDA:
-
-<img src="https://mini-saite.ru/s/img-1/prosmotr2.png" width="300" height="72" href="http://4pda.ru/forum/index.php?showuser=2327235" alt="">
+<a href="http://4pda.ru/forum/index.php?showuser=2327235"><img src="https://mini-saite.ru/s/img-1/prosmotr2.png" width="300" height="72" alt="4pda"></a>
 
 # Screen:
 
