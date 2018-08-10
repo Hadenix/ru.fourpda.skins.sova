@@ -1,14 +1,18 @@
-# Тёмная тема SOVA (ru.fourpda.skins.sova)
+# Тёмная тема SOVA (ru.fourpda.skins.sova):
 
 <img src="https://github.com/kiruha21/ru.fourpda.skins.sova/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" width="130" height="130" alt="">
 
-# Screens
+# Profile 4PDA:
+
+<img src="https://mini-saite.ru/s/img-1/prosmotr2.png" width="300" height="72" alt="http://4pda.ru/forum/index.php?showuser=2327235">
+
+# Screen:
 
 <img src="https://github.com/kiruha21/ru.fourpda.skins.sova/blob/master/screens/Screenshot_2018-08-10-17-09-14-850_ru.fourpda.client.png?raw=true" width="150" height="300" alt=""> <img src="https://github.com/kiruha21/ru.fourpda.skins.sova/blob/master/screens/Screenshot_2018-08-10-17-09-19-589_ru.fourpda.client.png?raw=true" width="150" height="300" alt="">
 <img src="https://github.com/kiruha21/ru.fourpda.skins.sova/blob/master/screens/Screenshot_2018-08-10-17-09-27-419_ru.fourpda.client.png?raw=true" width="150" height="300" alt="">
 <img src="https://github.com/kiruha21/ru.fourpda.skins.sova/blob/master/screens/Screenshot_2018-08-10-17-09-35-936_ru.fourpda.client.png?raw=true" width="150" height="300" alt="">
 
-# License
+# License:
 
 Copyright 2016 Kirill Yaroshevich
 
