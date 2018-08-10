@@ -4,9 +4,9 @@
 
 # Screens
 
-<img src="https://github.com/kiruha21/ru.fourpda.skins.sova/blob/master/screens/Screenshot_2018-08-10-17-09-14-850_ru.fourpda.client.png?raw=true" width="480" height="800" alt=""> <img src="https://github.com/kiruha21/ru.fourpda.skins.sova/blob/master/screens/Screenshot_2018-08-10-17-09-19-589_ru.fourpda.client.png?raw=true" width="130" height="130" alt="">
-<img src="https://github.com/kiruha21/ru.fourpda.skins.sova/blob/master/screens/Screenshot_2018-08-10-17-09-27-419_ru.fourpda.client.png?raw=true" width="130" height="130" alt="">
-<img src="https://github.com/kiruha21/ru.fourpda.skins.sova/blob/master/screens/Screenshot_2018-08-10-17-09-35-936_ru.fourpda.client.png?raw=true" width="130" height="130" alt="">
+<img src="https://github.com/kiruha21/ru.fourpda.skins.sova/blob/master/screens/Screenshot_2018-08-10-17-09-14-850_ru.fourpda.client.png?raw=true" width="150" height="300" alt=""> <img src="https://github.com/kiruha21/ru.fourpda.skins.sova/blob/master/screens/Screenshot_2018-08-10-17-09-19-589_ru.fourpda.client.png?raw=true" width="150" height="300" alt="">
+<img src="https://github.com/kiruha21/ru.fourpda.skins.sova/blob/master/screens/Screenshot_2018-08-10-17-09-27-419_ru.fourpda.client.png?raw=true" width="150" height="300" alt="">
+<img src="https://github.com/kiruha21/ru.fourpda.skins.sova/blob/master/screens/Screenshot_2018-08-10-17-09-35-936_ru.fourpda.client.png?raw=true" width="150" height="300" alt="">
 
 # License
 
