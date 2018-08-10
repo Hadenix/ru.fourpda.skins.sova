@@ -4,7 +4,7 @@
 
 # Profile 4PDA:
 
-<img src="https://mini-saite.ru/s/img-1/prosmotr2.png" width="300" height="72" alt="http://4pda.ru/forum/index.php?showuser=2327235">
+<img src="https://mini-saite.ru/s/img-1/prosmotr2.png" width="300" height="72" href="http://4pda.ru/forum/index.php?showuser=2327235" alt="">
 
 # Screen:
 
