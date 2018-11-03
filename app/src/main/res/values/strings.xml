@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Тёмный скин SOVA</string>
     <string name="description">Тёмная тема SOVA</string>
+    <!--integer name="topic_id">913107</integer-->
     <!--string name="author_name">kiruha_21</string-->
     <!--integer name="author_id">2327235</integer-->
 </resources>
