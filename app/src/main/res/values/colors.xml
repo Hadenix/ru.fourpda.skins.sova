@@ -99,7 +99,7 @@
     <color name="bisque">#FFFFE4C4</color>
     <color name="black">#FF909090</color><!--FF000000-->
     <color name="blanchedalmond">#FFFFEBCD</color>
-    <color name="blue">#2f2fcc</color>
+    <color name="blue">#FF0000FF</color>
     <color name="blueviolet">#FF8A2BE2</color>
     <color name="brown">#FFA52A2A</color>
     <color name="burlywood">#FFDEB887</color>
@@ -203,7 +203,7 @@
     <color name="plum">#FFDDA0DD</color>
     <color name="powderblue">#FFB0E0E6</color>
     <color name="purple">#FFa020a0</color><!--FF800080-->
-    <color name="red">#c21919</color>
+    <color name="red">#FFFF0000</color>
     <color name="rosybrown">#FFBC8F8F</color>
     <color name="royalblue">#FF4169E1</color>
     <color name="saddlebrown">#FF8B4513</color>
