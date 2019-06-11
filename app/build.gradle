@@ -5,8 +5,7 @@ android {
     buildToolsVersion '29.0.0'
 
     defaultConfig {
-        applicationId "ru.fourpda.skins.sova"   /* обязательно переименовать "ru.fourpda.skins.ВАШЕ_ИМЯ"
-                                при добавлении скина на форум, указать данную строчку в поле "Имя скина в системе"*/
+        applicationId "ru.fourpda.skins.sova"
         minSdkVersion 10
         targetSdkVersion 29
         versionCode 10906
