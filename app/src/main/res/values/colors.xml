@@ -81,14 +81,14 @@
     <color name="bb_spoiler_head">#0000</color>
     <color name="bb_spoiler_body">#0000</color>
     <color name="bb_spoiler_border">#003f3f</color>
-    <color name="bb_spoiler_indent">#003f3f</color>
-    <color name="bb_spoiler_indent_close">#003f3f</color>
+    <color name="bb_spoiler_indent">#006363</color>
+    <color name="bb_spoiler_indent_close">#006363</color>
 
     <color name="bb_code_head">#2f2b29</color>
     <color name="bb_code_body">#FF2f2b29</color>
     <color name="bb_code_border">#FF4f0b00</color>
-    <color name="bb_code_indent">#FF4f0b00</color>
-    <color name="bb_code_indent_close">#FF4f0b00</color>
+    <color name="bb_code_indent">#6D0C00</color>
+    <color name="bb_code_indent_close">#6D0C00</color>
 
     <color name="bb_hide_head">#0000</color>
     <color name="bb_hide_body">#0000</color>
