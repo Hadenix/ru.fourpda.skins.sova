@@ -10,7 +10,7 @@
     <color name="brend_alpha">#002b2b</color>
     <color name="label_text">#FF909090</color>
     <color name="pressed">#356a6a</color>
-    <color name="start_button_bg">#FFaeb0b0</color>
+    <color name="start_button_bg">#FF909090</color>
     <color name="cardlist_bg">#FF000000</color>
     <color name="qmslist_bg">#FF000000</color>
     <color name="bubble_my_bg">#464646</color>
