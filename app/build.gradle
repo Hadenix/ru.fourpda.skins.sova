@@ -8,8 +8,8 @@ android {
         applicationId "ru.fourpda.skins.sova"
         minSdkVersion 10
         targetSdkVersion 29
-        versionCode 10907
-        versionName "1.9.7"
+        versionCode 10908
+        versionName "1.9.8"
     }
     buildTypes {
         release {

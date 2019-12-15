@@ -29,8 +29,6 @@
 
     <color name="hidden">#FF3f0000</color>
     <color name="deleted">#ff565656</color>
-    <color name="global_important">#40FF0000</color>
-    <color name="global_normal">#356a6a</color>
     <color name="search_post_title">#356a6a</color>
     <color name="progress_done">#003f3f</color>
     <color name="progress_all">#FFFFFFFF</color>
